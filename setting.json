@@ -1,0 +1,46 @@
+{
+    "title": "Cloudの主页",
+    "description": "一个默默无闻的主页",
+    "keywords": "Cloud,个人主页",
+    "author": "Cloud",
+    "logo_img": "./img/icon/avatar.jpg",
+    "logo_text_1": "yunshangya",
+    "logo_text_2": ".com",
+    "github": "hanfeiY",
+    "qq": "2630848474",
+    "email": "2630848474@qq.com",
+    "bilibili": "38637599390",
+    "facebook": "bottom_user",
+    "link_1": [
+        "http://www.yunshangya.com/",
+        "fa-solid fa-blog",
+        "博客"
+    ],
+    "link_2": [
+        "https://tongji.baidu.com/",
+        "fa-solid fa-cloud",
+        "统计"
+    ],
+    "link_3": [
+        "http://www.yunshangya.com/",
+        "fa-solid fa-compass",
+        "起始页"
+    ],
+    "link_4": [
+        "http://www.yunshangya.com",
+        "fa-solid fa-book-bookmark",
+        "编程宝典"
+    ],
+    "link_5": [
+        "http://www.yunshangya.com/",
+        "fa-solid fa-flask",
+        "开发中..."
+    ],
+    "link_6": [
+        "http://www.yunshangya.com/",
+        "fa-solid fa-flask",
+        "敬请期待..."
+    ],
+    "Copyright_text": "Cloud",
+    "beian": "蜀ICP备2024072359号"
+}
